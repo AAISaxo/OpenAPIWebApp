@@ -1,0 +1,6 @@
+C:\Data Drive\TFS\Git\openapi-samples-foundational\WebBasedBatchingDemo\WebBasedBatchingDemo\bin\WebBasedBatchingDemo.dll.config
+C:\Data Drive\TFS\Git\openapi-samples-foundational\WebBasedBatchingDemo\WebBasedBatchingDemo\bin\WebBasedBatchingDemo.dll
+C:\Data Drive\TFS\Git\openapi-samples-foundational\WebBasedBatchingDemo\WebBasedBatchingDemo\bin\WebBasedBatchingDemo.pdb
+C:\Data Drive\TFS\Git\openapi-samples-foundational\WebBasedBatchingDemo\WebBasedBatchingDemo\obj\Debug\WebBasedBatchingDemo.csprojResolveAssemblyReference.cache
+C:\Data Drive\TFS\Git\openapi-samples-foundational\WebBasedBatchingDemo\WebBasedBatchingDemo\obj\Debug\WebBasedBatchingDemo.dll
+C:\Data Drive\TFS\Git\openapi-samples-foundational\WebBasedBatchingDemo\WebBasedBatchingDemo\obj\Debug\WebBasedBatchingDemo.pdb
